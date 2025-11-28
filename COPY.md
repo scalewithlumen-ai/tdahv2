@@ -132,24 +132,24 @@
 - Chamada: “Você está pronta(o) para começar a sentir alívio com passos suaves.”
 - CTA: “Quero seguir o plano.”
 
-### 28. Oferta / Plano Acolhedor
-- Título: “Conheça seu Plano de Calma e Clareza”
-- Antes/Depois (imagem mental): “Hoje: corpo em alerta, mente acelerada. Em semanas: respiração mais livre, noites mais tranquilas, foco gentil.”
-- Objetivo: “Aliviar a tensão e recuperar sua paz interior.”
-- Tempo: “Em menos de 30 dias, iniciando hoje, você já sente diferença.”
-- Benefícios:
-  - Acordar com mais leveza e energia suave.
-  - Ter clareza sobre o que fazer no dia sem se cobrar tanto.
-  - Reduzir a sobrecarga e enfrentar tarefas com mais calma.
-  - Cultivar crescimento pessoal enquanto diminui a ansiedade.
-  - Fortalecer relações com mais presença e tranquilidade.
-  - Devolver brilho à autoestima, sentindo-se capaz e segura(o).
-- Chamada: “Vamos cuidar de você com carinho. Seu plano está pronto para começar.”
-- Extras (curso curto de mini-hábitos de calma):
-  - Caminho personalizado ao seu ritmo.
-  - Práticas simples: respiração, higiene do sono, micro-pausas.
-  - Apoio contínuo: lembretes e materiais de apoio.
-  - Flexibilidade: áudio/vídeo curtos para usar quando precisar.
-  - Resultados visíveis: acompanhe pequenas vitórias semana a semana.
-- Garantia suave: “Experimente por 7 dias; se não sentir valor, cancelamos sem perguntas.”
-- CTA final: “Quero começar meu plano de calma.”
+### 28. Oferta / Plano Acolhedor (versão emocional)
+- Headline: “Respire fundo. Em 30 dias, sua rotina fica leve e clara.”
+- Subtítulo: “7 minutos por dia para acordar com energia, dormir em paz e sentir orgulho de cumprir o que importa.”
+- Proposta de valor: Plano personalizado que cabe na vida corrida, com práticas rápidas de foco, calma e organização.
+- Benefícios (emocionais + práticos):
+  - Acordar sem peso na cabeça, sabendo por onde começar.
+  - Reduzir a ansiedade do “atrasada(o)” e ganhar paz para dormir.
+  - Criar consistência suave: passos pequenos, resultados visíveis.
+  - Manter foco nas prioridades sem se cobrar demais.
+- Oferta e urgência:
+  - App BORA completo + 5 bônus (Programa 30 Dias, Jornada Guiada, Meditações & Respiração, Hub de Livros, 27 Dicas Práticas).
+  - De R$805 por R$47 (94% OFF), pagamento único, 1 ano de acesso.
+  - Oferta por tempo limitado (contador de 15 minutos).
+- Prova social com sentimento:
+  - “Em 14 dias, passei de acordar 10h para 6h30 sem sofrimento.” — Lucas, 28
+  - “21 dias seguidos, sem recaídas; estudo focado em 2h/dia.” — Mariana, 24
+  - “Mesmo com plantões, mantive 87% de consistência.” — Ana, 29
+- Garantia suave:
+  - 7 dias para testar; se não sentir diferença, devolvemos 100% sem perguntas.
+- CTA final (leve):
+  - “Quero meu plano de calma e foco por R$47”
